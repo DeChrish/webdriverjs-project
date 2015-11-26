@@ -1,0 +1,10 @@
+{
+  "name": "webdriverjs-sample-project",
+  "version": "0.0.1",
+  "repository": "ssh://git@github.com:DeChrish/webdriverjs-sample-project.git",
+  "dependencies": {
+     "webdriverjs-lib": "git+ssh://git@github.com:DeChrish/webdriverjs-lib.git"
+  }
+}
+
+
