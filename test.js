@@ -1,4 +1,4 @@
-var  env = require('./node_module/webdriverjs-lib');
+var  env = require('webdriverjs-lib');
 
 
 
